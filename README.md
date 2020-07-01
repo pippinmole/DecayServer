@@ -8,7 +8,7 @@ Report any issues you may have here :)
 
 ## Server ConfigVars
 
-> serverName
+> serverName  
 This is the display name of the server, clients connecting will see this.
 
 > mapName
