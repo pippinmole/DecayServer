@@ -6,6 +6,19 @@ Report any issues you may have here :)
 2. Open the 'Run Server.bat' and change the configuration to your liking.
 3. Run the bat file, and wait for the server to start.
 
+## Server ConfigVars
+```serverName```
+Test
+
+
+::config
+set serverName="pippin_mole's Server"
+set mapName="Game"
+set maxPlayer=100
+set password=""
+set passworded=false
+::end config
+
 ## Commands
 There are a limited amount of commands, but if you suggest any, I will make sure to add them.
 
