@@ -28,15 +28,6 @@ passworded
 ```
 If true, clients will be required to enter a password.
 
-
-::config
-set serverName="pippin_mole's Server"
-set mapName="Game"
-set maxPlayer=100
-set password=""
-set passworded=false
-::end config
-
 ## Commands
 There are a limited amount of commands, but if you suggest any, I will make sure to add them.
 
