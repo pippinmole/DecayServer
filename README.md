@@ -7,8 +7,11 @@ Report any issues you may have here :)
 3. Run the bat file, and wait for the server to start.
 
 ## Server ConfigVars
-```serverName```
-Test
+```serverName```: This is the display name of the server, clients connecting will see this.
+```mapName```: This is for future maps that may come, keep this as 'Game', or the server will not boot.
+```maxPlayer```: This is the maximum amount of players that can join.
+```password```: If you want a password, you can add one here. (NOTE: This only works if you have 'passworded' set to true)
+```passworded```: If true, clients will be required to enter a password.
 
 
 ::config
