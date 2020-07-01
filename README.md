@@ -6,7 +6,7 @@ Report any issues you may have here :)
 2. Open the 'Run Server.bat' and change the configuration to your liking.
 3. Run the bat file, and wait for the server to start.
 
-## Server ConfigVars
+## Server .bat ConfigVars
 
 | Command  | Description |
 | ------------- | ------------- |
@@ -16,7 +16,7 @@ Report any issues you may have here :)
 | password  | If you want a password, you can add one here. (NOTE: This only works if you have 'passworded' set to true)  |
 | passworded  | If true, clients will be required to enter a password.  |
 
-## Commands
+## Console Commands
 There are a limited amount of commands, but if you suggest any, I will make sure to add them.
 
 | Command  | Description |
