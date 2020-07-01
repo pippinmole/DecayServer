@@ -6,3 +6,5 @@ Report any issues you may have here :)
 2. Open the 'Run Server.bat' and change the configuration to your liking.
 3. Run the bat file, and wait for the server to start.
 
+## Current workarounds
+If you select anywhere inside the console window, it will pause the server. It is a known issue and I am looking for a fix for this.
