@@ -8,25 +8,13 @@ Report any issues you may have here :)
 
 ## Server ConfigVars
 
->serverName
-
-This is the display name of the server, clients connecting will see this.
-
-> mapName
-
-This is for future maps that may come, keep this as 'Game', or the server will not boot.
-
-> maxPlayer
-
-This is the maximum amount of players that can join.
-
-> password
-
-If you want a password, you can add one here. (NOTE: This only works if you have 'passworded' set to true)
-
-> passworded
-
-If true, clients will be required to enter a password.
+| First Header  | Second Header |
+| ------------- | ------------- |
+| serverName  | This is the display name of the server, clients connecting will see this.  |
+| mapName  | This is for future maps that may come, keep this as 'Game', or the server will not boot.  |
+| maxPlayer  | This is the maximum amount of players that can join.  |
+| password  | If you want a password, you can add one here. (NOTE: This only works if you have 'passworded' set to true)  |
+| passworded  | If true, clients will be required to enter a password.  |
 
 ## Commands
 There are a limited amount of commands, but if you suggest any, I will make sure to add them.
